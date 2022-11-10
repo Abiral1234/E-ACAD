@@ -1,0 +1,26 @@
+{
+  "name": "e-academia",
+  "version": "1.0.0",
+  "description": "College Management Application",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abiral1234/E-Academia.git"
+  },
+  "author": "Abiral Pokhrel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abiral1234/E-Academia/issues"
+  },
+  "homepage": "https://github.com/Abiral1234/E-Academia#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
